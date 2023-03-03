@@ -1,7 +1,7 @@
 package com.agaileProCrm.step_definitions;
 
-import com.project_name.pages.LoginPage;
-import com.project_name.utilities.ConfigurationReader;
+import com.agaileProCrm.pages.LoginPage;
+import com.agaileProCrm.utilities.ConfigurationReader;
 import io.cucumber.java.en.Given;
 public class LoginStepDefs {
 
